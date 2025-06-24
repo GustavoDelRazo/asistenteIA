@@ -1,4 +1,7 @@
 # asistenteIA
+## Asignatura: Extracción de Conocimiento en Bases de Datos
+## Docente: Salvador Hernández Mendoza
+## Alumnos: Gustavo Del Razo Rivera y Fernando Antonio Vargas Velazquez
 
 ## Chat con los datos v1
 
